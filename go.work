@@ -1,0 +1,12 @@
+go 1.20
+
+use (
+	./buffered-channels
+	./channel-select
+	./diner-philosophy
+	./goroutines-waitgrp
+	./mutex
+	./producer_consumer
+	./simple-channels
+	./sleeping-barber
+)
